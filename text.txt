@@ -1,6 +1,4 @@
- Python avancé
-
-    Différences python 2 / 3
+Différences python 2 / 3
     Encodage python
     Pip installe vos librairies
     Virtualenv
@@ -23,5 +21,4 @@
     WBonjour mondeBonjour mondeBonjour monde
  Bonjour monde
    Bonjour monde
- 		  Bonjour monde
- 		  Bonjour monde
+ 		  
