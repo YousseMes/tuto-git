@@ -1,0 +1,27 @@
+ Python avancé
+
+    Différences python 2 / 3
+    Encodage python
+    Pip installe vos librairies
+    Virtualenv
+    Debug
+    Python Path
+    Gestion fichiers et dossiers
+    Interface graphique tKinter
+    Graphiques scientifiques
+    Programmation asynchrone
+    XML et python
+    BeautifulSoup / HTML parser
+    Créer un exécutable
+    Dossier partagé / samba
+    FTP
+    Fabric SSH
+    Envoyer un mail SMTP
+    Réseau / socket
+    Base de données
+    Créer un serveur web
+    WBonjour mondeBonjour mondeBonjour monde
+ Bonjour monde
+   Bonjour monde
+ 		  Bonjour monde
+ 		  Bonjour monde
